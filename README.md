@@ -73,20 +73,27 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
 
 
 
 ---
 
-## 🚀 Current Projects
 
-- 🌦 **Weather Prediction Web App** — ML-based prediction system with Flask backend and modern frontend.
-- 🏥 **Medical Chatbot Project** — a healthcare-oriented AI application combining prediction logic and conversational flow.
-- 🤖 **AI Agentic Sales Consultant** — an intelligent system for lead intake, sales enablement, and controlled conversational guidance.
-- 🗂 **Data Engineering Learning Projects** — ETL workflows, pipeline concepts, and cloud/data platform exploration.
+## 🚀 Projects
 
+- **AI Resume Analyzer** — A smart recruitment tool that automates resume screening based on job-specific skills. It parses uploaded resumes, calculates skill match percentages, sorts candidates, and highlights top-matched profiles with contact details.  
+  **Tech Stack:** Python, Flask, ReactJS, PostgreSQL, LLMs
+
+- **Campus Fire Prevention** — A fire detection application that uses a machine learning model to analyze real-time environmental data such as humidity, temperature, and local weather conditions. It identifies potential fire threats and sends immediate alerts to users.  
+  **Tech Stack:** React Native, Firebase, Machine Learning
+
+- **Weather Prediction Web App** — An ML-powered application focused on weather prediction through model-based analysis and web deployment.  
+  **Tech Stack:** Python, Flask, Machine Learning
+
+- **Medical Chatbot Project** — A healthcare-oriented AI application that combines prediction capabilities with chatbot interaction.  
+  **Tech Stack:** Python, Flask, AI, RAG, LLM, Machine Learning
 ---
 
 ## 📊 GitHub Stats
@@ -104,12 +111,12 @@
 
 ## 🧰 Tools & Technologies
 
-- Programming: Python, Java, SQL
-- Backend: Flask
-- Core CS: Data Structures, Algorithms, OOP
-- Data: ETL, MySQL, Snowflake, PySpark, Airflow
-- AI/ML: Machine Learning, Intelligent Applications, AI Workflows
-- Developer Tools: Git, GitHub, VS Code
+- **Programming:** Python, Java, JavaScript, SQL
+- **Web & Backend:** Flask, FastAPI, REST API, HTML5, CSS3
+- **Data & ML:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, SQLAlchemy
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Developer Tools:** Git, GitHub, VS Code, Linux
+- **AI:** n8n, LLM, NLP, RAG
 
 ---
 
