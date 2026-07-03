@@ -38,19 +38,20 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js," />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,RESTapi" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
 </p>
 
 ### ML / Data Libraries
