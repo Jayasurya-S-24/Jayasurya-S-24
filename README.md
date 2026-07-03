@@ -44,14 +44,13 @@
 
 ### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js," />
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,RESTapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ML / Data Libraries
@@ -74,7 +73,7 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
 </p>
 
 
