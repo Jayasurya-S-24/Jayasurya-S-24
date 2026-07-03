@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayasurya S</h1>
-<h3 align="center">Final-year Engineering Student | Aspiring Software Engineer | Data & AI Enthusiast</h3>
+<h3 align="center">Final-year Engineering Student | Aspiring Software Engineer | Data & AIML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Final-year+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+Java+%7C+SQL;Data+Engineering+%7C+Machine+Learning+%7C+AI;Building+Projects+in+Flask%2C+ETL%2C+and+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Final-year+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+Java+%7C+SQL;Data+Analytics+%7C+Machine+Learning+%7C+AI;Building+Projects+in+Flask%2C+RAG%2C+and+N8N" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,34 +38,45 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Web & Backend
+### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
-### Data Engineering & Databases
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
-### AI / ML
+### ML / Data Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/AI-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
+
+### AI / GenAI
+<p>
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
+
+
 
 ---
 
