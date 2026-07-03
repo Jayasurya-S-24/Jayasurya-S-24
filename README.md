@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m a final-year engineering student from Tamil Nadu, India.
-- 💡 I’m focused on software engineering, data engineering, and AI-based application development.
-- 🧠 I enjoy working on Python, Java, SQL, DSA, ETL pipelines, and ML-powered projects.
+- 💡 I’m focused on software engineering, data analytics, and AIML-based application development.
+- 🧠 I enjoy working on Python, Java, SQL, DSA , RAG , N8N ,and ML-powered projects.
 - 🚀 I’ve worked on projects involving weather prediction, medical chatbot systems, and AI-driven solution building.
 - 📚 I’m currently strengthening my problem-solving, backend development, and interview preparation skills.
 - 🌱 I’m exploring advanced AI systems, data engineering tools, and scalable application design.
@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/jayasuryasenthil11" target="_blank">
+  <a href="https://www.linkedin.com/in/jayasuryasenthil11/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
